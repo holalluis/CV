@@ -174,7 +174,11 @@ bioinformàtica/biomedicina i camps relacionats.
   (http://www.s-can.at/) a Viena, el 14-02-2014.
 
 ## Direcció de pràctiques d'estiu d'estudiants de grau de la UdG (supervisió i planificació de tasques) a ICRA
-- Lluís Caselles: 
+
+- Lluís Caselles: Estimació de la petjada de carboni del cicle urbà de l'aigua
+  de Girona: cas pràctic de l'ús de l'eina desenvolupada a ICRA "ECAM" durant
+  el seu desenvolupament de la versió 3. El treball va servir de beta-testing i
+  de avaluació de dades reals de forma simultània.
 -	Arnau Prats: Desenvolupament d’un prototipus basat en Arduino i web per
   detectar, enviar les dades de forma remota, i guardar dades històriques de
   vessaments en col·lectors al mateix temps que es genera energia, utilitzant
@@ -183,7 +187,6 @@ bioinformàtica/biomedicina i camps relacionats.
   guardar i analitzar-ne les dades obtingudes mitjançant llenguatges de
   programació: PHP & MySQL. Treball de final de grau (enginyeria industrial).
 
--------------------------------------------------------------------------------
 ## Annex 1: assignatures llicenciatura biotecnologia
 Biologia cel·lular, bioquímica, microbiologia molecular, enginyeria de
 proteïnes, teràpia gènica, proteòmica, cultius cel·lulars, immunologia,
