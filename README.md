@@ -1,6 +1,6 @@
 # LLUÍS Mª BOSCH LLADÓ
-- https://linkedin.com/in/holalluis
 - https://github.com/holalluis
+- https://linkedin.com/in/holalluis
 - 28/07/1989
 - holalluis@gmail.com
 - C/Ponent núm 33, 17160 Anglès (Girona)
