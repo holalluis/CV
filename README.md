@@ -1,14 +1,16 @@
 # LLUÍS Mª BOSCH LLADÓ
-- https://github.com/holalluis
 - https://linkedin.com/in/holalluis
+- https://github.com/holalluis
 - 28/07/1989
-- holalluis@gmail.com 
+- holalluis@gmail.com
 - C/Ponent núm 33, 17160 Anglès (Girona)
 - 677 62 63 63
 
+Aquest document es pot trobar a https://github.com/holalluis/cv.
+
 ## Declaració personal
 Full stack developer: programador i biotecnòleg, amb una forta inclinació cap a
-les matemàtiques i l'estadística.  Capacitat per desenvolupar software en
+les matemàtiques i l'estadística. Capacitat per desenvolupar software en
 diversos llenguatges de programació, així com coneixements i experiència
 tractant grans volums de dades.
 
@@ -30,7 +32,7 @@ bioinformàtica/biomedicina i camps relacionats.
     els mateixos formularis perquè només haguessin de posar les dades crues de
     les PCR i obtenir els valors de concentració vírica.
     (https://covidvigilancia.icra.cat/architecture/).
-    Únic programador.  Llenguatges utilitzats: PHP, Javascript i SQLite.
+    Únic programador. Llenguatges utilitzats: PHP, Javascript i SQLite.
   - ECAM V3: versió 3 de la plataforma open source "ECAM". Veure
     descripció més avall. Transformació de l'eina ECAM V2 a Single Page App:
     100% javascript client-side, sense PHP. Únic programador.
@@ -42,7 +44,7 @@ bioinformàtica/biomedicina i camps relacionats.
     programador. https://github.com/icra/ecam.
   - Projecte ECOADVISOR: plataforma web privada que implementa una xarxa de
     rius i depuradores, per simular concentracions de contaminants a punts
-    d'interès, en funció dels paràmetres de la depuradora.  Integra un model en
+    d'interès, en funció dels paràmetres de la depuradora. Integra un model en
     estat estacionari de depuradora (fangs actius, nitrificació,
     desnitrificació, eliminació de fòsfor), un model de riu (geometria, cabal),
     i un mòdul per comptabilitzar energia consumida. Col·laboració amb Global
@@ -174,7 +176,6 @@ bioinformàtica/biomedicina i camps relacionats.
   (http://www.s-can.at/) a Viena, el 14-02-2014.
 
 ## Direcció de pràctiques d'estiu d'estudiants de grau de la UdG (supervisió i planificació de tasques) a ICRA
-
 - Lluís Caselles: Estimació de la petjada de carboni del cicle urbà de l'aigua
   de Girona: cas pràctic de l'ús de l'eina desenvolupada a ICRA "ECAM" durant
   el seu desenvolupament de la versió 3. El treball va servir de beta-testing i
