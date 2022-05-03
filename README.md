@@ -23,14 +23,14 @@ bioinformàtica/biomedicina i camps relacionats.
 -	2007: Batxillerat internacional (IBO), Bell-lloc del Pla (Girona).
 
 ## Experiència Laboral
-- *Juliol 2021 - Actualitat*: Universitat de Barcelona: Tècnic informàtic al
+- __Juliol 2021 - Actualitat__: Universitat de Barcelona: Tècnic informàtic al
   projecte VIRWASTE. Tasques:
   - Manteniment plataforma Sarsaigua (operació diària, optimitzacions, correcció de bugs).
   - Desenvolupament plataforma "Variants": plataforma web dins de la plataforma
     Sarsaigua per a la visualització de resultats de la seqüenciació massiva
     del Sars-COV-2 per estudiar la presència de les diferents variants (Delta,
     Omicron, etc.) i subllinatges (Omicron BA.1, BA.2, etc).
-- *Febrer 2020 - Juliol 2021*: autònom. Projectes en els quals he treballat:
+- __Febrer 2020 - Juliol 2021__: autònom. Projectes en els quals he treballat:
   - Projecte SARSAIGUA (http://sarsaigua.icra.cat): xarxa de monitoratge del
     Sars-COV-2 en aigües residuals. Disseny i implementació de la plataforma
     interna: arquitectura del backend (base de dades) i disseny dels formularis
@@ -47,6 +47,7 @@ bioinformàtica/biomedicina i camps relacionats.
     gestió de la reutilització. Inici del projecte: disseny estructura de
     dades. (ACA, ICRA, Eurecat, Cetaqua, CWP, Universitat Politècnica de
     Catalunya).
+
 -	__Octubre 2013 - Desembre 2019__: Tècnic informàtic a l'Institut Català de
   Recerca de l'Aigua (ICRA, Girona) amb participació en els següents projectes:
   - Projecte ECAM: plataforma web open source per comptabilitzar emissions de
@@ -68,14 +69,17 @@ bioinformàtica/biomedicina i camps relacionats.
     d'eines informàtiques en diversos àmbits.
   -	Projecte europeu EcoMaWat (PCIG-09-GA-2011-293535) (100.000€): Anàlisis
     estadístic de dades.
--	*Juliol - Octubre 2013*: Enginyer informàtic a AB-Biotics (empresa del sector
-  biotecnològic). Creació d'una plataforma web per gestionar una base de dades
-  interna.
--	*2012 - 2013*: Investigador adjunt al Departament d'Enginyeria Electrònica i
-  Automàtica de la Universitat de Girona. Modelització en Matlab del
+
+-	__Juliol - Octubre 2013__: Enginyer informàtic a AB-Biotics (empresa del
+  sector biotecnològic). Creació d'una plataforma web per gestionar una base de
+  dades interna.
+
+-	__2012 - 2013__: Investigador adjunt al Departament d'Enginyeria Electrònica
+  i Automàtica de la Universitat de Girona. Modelització en Matlab del
   metabolisme de Pichia pastoris (microorganisme d'interès en la recerca i la
   indústria).
--	*2011*: Investigador adjunt al Departament d’Enginyeria Química de la
+
+-	__2011__: Investigador adjunt al Departament d’Enginyeria Química de la
   Universitat Autònoma de Barcelona, al Grup d’Enginyeria Cel·lular i Tissular
   (GECiT), treballant en una línia de recerca pel disseny d'una planta per la
   producció en massa del cianobacteri Arthrospira platensis (microorganisme
