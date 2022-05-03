@@ -25,13 +25,16 @@ bioinformàtica/biomedicina i camps relacionats.
 ## Experiència Laboral
 - __Juliol 2021 - Juny 2022__: Universitat de Barcelona: Tècnic informàtic al
   projecte VIRWASTE. Tasques:
-  - Manteniment plataforma Sarsaigua (operació diària, optimitzacions, correcció de bugs).
+  - Manteniment plataforma Sarsaigua (operació diària, optimitzacions,
+    correcció de bugs). Llenguatges: PHP/Javascript/SQLite3.
   - Desenvolupament plataforma "Variants": plataforma web dins de la plataforma
     Sarsaigua per a la visualització de resultats de la seqüenciació massiva
     del Sars-COV-2 per estudiar la presència de les diferents variants (Delta,
-    Omicron, etc.) i subllinatges (Omicron BA.1, BA.2, etc).
+    Omicron, etc.) i subllinatges (Omicron BA.1, BA.2, etc). Llenguatges/Llibreries:
+    Javascript, VUEJS, openlayers.
 
-- __Febrer 2020 - Juliol 2021__: autònom. Participació en els següents projectes:
+- __Febrer 2020 - Juliol 2021__: autònom. Participació en els següents
+  projectes:
   - Projecte SARSAIGUA (http://sarsaigua.icra.cat): xarxa de monitoratge del
     Sars-COV-2 en aigües residuals. Disseny i implementació de la plataforma
     interna: arquitectura del backend (base de dades) i disseny dels formularis
@@ -51,7 +54,6 @@ bioinformàtica/biomedicina i camps relacionats.
 
 -	__Octubre 2013 - Desembre 2019__: Tècnic informàtic a l'Institut Català de
   Recerca de l'Aigua (ICRA, Girona) amb participació en els següents projectes:
-
   - Projecte ECAM: plataforma web open source per comptabilitzar emissions de
     gasos d'efecte hivernacle per part d'infrastructures relacionades amb el
     cicle urbà de l'aigua (projecte WACCLIM, col·laboració amb IWA i GIZ). Únic
