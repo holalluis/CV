@@ -1,18 +1,18 @@
 # LLUÍS Mª BOSCH LLADÓ
-- https://github.com/holalluis
-- https://linkedin.com/in/holalluis
 - 28/07/1989
 - holalluis@gmail.com
 - C/Ponent núm 33, 17160 Anglès (Girona)
-- 677 62 63 63
+- +34 677 62 63 63
+- https://github.com/holalluis
+- https://linkedin.com/in/holalluis
 
-Aquest document es pot trobar a https://github.com/holalluis/cv.
+Aquest document es pot trobar a https://github.com/holalluis/cv
 
 ## Declaració personal
-Full stack developer: programador i biotecnòleg, amb una forta inclinació cap a
+Full stack developer; programador i biotecnòleg, amb una forta inclinació cap a
 les matemàtiques i l'estadística. Capacitat per desenvolupar software en
-diversos llenguatges de programació, així com coneixements i experiència
-tractant grans volums de dades.
+diversos llenguatges de programació, així com coneixements i experiència en
+l'automatització i tractament de grans volums de dades.
 
 Camps d'interès: ciències ambientals, enginyeria industrial,
 bioinformàtica/biomedicina i camps relacionats.
@@ -23,20 +23,31 @@ bioinformàtica/biomedicina i camps relacionats.
 -	2007: Batxillerat internacional (IBO), Bell-lloc del Pla (Girona).
 
 ## Experiència Laboral
-- Febrer 2020 - Actualitat: autònom. Projectes en els quals he treballat:
-  - Sarsaigua (http://sarsaigua.icra.cat): xarxa de monitoratge del virus
-    Sars-COV-2 en aigües residuals. Disseny de la plataforma interna,
-    arquitectura del backend (base de dades) i disseny dels formularis de
-    recopilació de dades per part de les 56 depuradores i els 3 laboratoris
+- *Juliol 2021 - Actualitat*: Universitat de Barcelona: Tècnic informàtic al
+  projecte VIRWASTE. Tasques:
+  - Manteniment plataforma Sarsaigua (operació diària, optimitzacions, correcció de bugs).
+  - Desenvolupament plataforma "Variants": plataforma web dins de la plataforma
+    Sarsaigua per a la visualització de resultats de la seqüenciació massiva
+    del Sars-COV-2 per estudiar la presència de les diferents variants (Delta,
+    Omicron, etc.) i subllinatges (Omicron BA.1, BA.2, etc).
+- *Febrer 2020 - Juliol 2021*: autònom. Projectes en els quals he treballat:
+  - Projecte SARSAIGUA (http://sarsaigua.icra.cat): xarxa de monitoratge del
+    Sars-COV-2 en aigües residuals. Disseny i implementació de la plataforma
+    interna: arquitectura del backend (base de dades) i disseny dels formularis
+    de recopilació de dades per part de les 56 depuradores i els 3 laboratoris
     d'anàlisi implicats. Es van automatitzar els càlculs dels laboratoris dins
     els mateixos formularis perquè només haguessin de posar les dades crues de
     les PCR i obtenir els valors de concentració vírica.
-    (https://covidvigilancia.icra.cat/architecture/).
-    Únic programador. Llenguatges utilitzats: PHP, Javascript i SQLite.
-  - ECAM V3: versió 3 de la plataforma open source "ECAM". Veure
+    (https://covidvigilancia.icra.cat/architecture/).  Únic programador.
+    Llenguatges utilitzats: PHP, Javascript i SQLite.
+  - Projecte ECAM-V3: versió 3 de la plataforma open source "ECAM". Veure
     descripció més avall. Transformació de l'eina ECAM V2 a Single Page App:
     100% javascript client-side, sense PHP. Únic programador.
--	Octubre 2013 - Desembre 2019: Tècnic informàtic a l'Institut Català de
+  - Projecte SUGGEREIX: Sistema d'ajuda a la decisió per a la implementació i
+    gestió de la reutilització. Inici del projecte: disseny estructura de
+    dades. (ACA, ICRA, Eurecat, Cetaqua, CWP, Universitat Politècnica de
+    Catalunya).
+-	*Octubre 2013 - Desembre 2019*: Tècnic informàtic a l'Institut Català de
   Recerca de l'Aigua (ICRA, Girona) amb participació en els següents projectes:
   - Projecte ECAM: plataforma web open source per comptabilitzar emissions de
     gasos d'efecte hivernacle per part d'infrastructures relacionades amb el
@@ -57,14 +68,14 @@ bioinformàtica/biomedicina i camps relacionats.
     d'eines informàtiques en diversos àmbits.
   -	Projecte europeu EcoMaWat (PCIG-09-GA-2011-293535) (100.000€): Anàlisis
     estadístic de dades.
--	Juliol - Octubre 2013: Enginyer informàtic a AB-Biotics (empresa del sector
+-	*Juliol - Octubre 2013*: Enginyer informàtic a AB-Biotics (empresa del sector
   biotecnològic). Creació d'una plataforma web per gestionar una base de dades
   interna.
--	2012 - 2013: Investigador adjunt al Departament d'Enginyeria Electrònica i
+-	*2012 - 2013*: Investigador adjunt al Departament d'Enginyeria Electrònica i
   Automàtica de la Universitat de Girona. Modelització en Matlab del
   metabolisme de Pichia pastoris (microorganisme d'interès en la recerca i la
   indústria).
--	2011: Investigador adjunt al Departament d’Enginyeria Química de la
+-	*2011*: Investigador adjunt al Departament d’Enginyeria Química de la
   Universitat Autònoma de Barcelona, al Grup d’Enginyeria Cel·lular i Tissular
   (GECiT), treballant en una línia de recerca pel disseny d'una planta per la
   producció en massa del cianobacteri Arthrospira platensis (microorganisme
@@ -85,21 +96,27 @@ bioinformàtica/biomedicina i camps relacionats.
 -	Git: sistema de control de versions (també Github i similars).
 - Gestió de servidors remots (ssh, rsync).
 - Experiència en configuració de servidors Apache, Nginx.
--	Llenguatges de programació (ordenats de més a menys coneixement):
-  -	Javascript
-    - node, npm, vue-js
+-	Llenguatges de programació (ordenats de més a menys experiència):
+  -	Javascript (node, npm, vue-js)
   -	PHP
-  -	MySQL/SQLite
-  -	Unix shell (bash)
+  -	Unix shell (sh, bash, zsh, ...)
   -	Python
-  -	C/C++
   -	Matlab/Octave
+  -	C/C++
+  - Go
+  - Rust
   -	C#
   - R
-  - Rust
+- Bases de dades
+  - SQLite3
+  -	MySQL
+  - PostrgresSQL
+  - Redis
+  - MongoDB
+
 - Coneixement d'entorns Linux (gestió de paquets, scripting, etc)
 - Experiència en implementació d'algoritmes de machine learning (après al
-  màster), com ara xarxes neurals, svm, naive bayes, etc.
+  màster), com ara xarxes neurals, svm, bayes, etc.
 -	Experiència en Grid Engine (programa qsub, batch jobs) en clústers multi core
   (paral·lelització de processsos).
 -	Experiència en plataformes bioinformàtiques, com ara GenBank, EMBL, NCBI,
