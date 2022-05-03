@@ -38,10 +38,10 @@ bioinformàtica/biomedicina i camps relacionats.
   - Projecte SARSAIGUA (http://sarsaigua.icra.cat): xarxa de monitoratge del
     Sars-COV-2 en aigües residuals. Disseny i implementació de la plataforma
     interna: arquitectura del backend (base de dades) i disseny dels formularis
-    de recopilació de dades per part de les 56 depuradores i els 3 laboratoris
+    de recopilació de dades per part de 56 depuradores i 3 laboratoris
     d'anàlisi implicats. Es van automatitzar els càlculs dels laboratoris dins
-    els mateixos formularis perquè només haguessin de posar les dades crues de
-    les PCR i obtenir els valors de concentració vírica.
+    els mateixos formularis perquè només s'haguessin d'introduir les dades
+    crues de les PCR i obtenir els valors de concentració vírica.
     (https://covidvigilancia.icra.cat/architecture/).  Únic programador.
     Llenguatges utilitzats: PHP, Javascript i SQLite.
   - Projecte ECAM-V3: versió 3 de la plataforma open source "ECAM". Veure
