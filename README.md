@@ -47,7 +47,7 @@ bioinformàtica/biomedicina i camps relacionats.
     gestió de la reutilització. Inici del projecte: disseny estructura de
     dades. (ACA, ICRA, Eurecat, Cetaqua, CWP, Universitat Politècnica de
     Catalunya).
--	_Octubre 2013 - Desembre 2019_: Tècnic informàtic a l'Institut Català de
+-	__Octubre 2013 - Desembre 2019__: Tècnic informàtic a l'Institut Català de
   Recerca de l'Aigua (ICRA, Girona) amb participació en els següents projectes:
   - Projecte ECAM: plataforma web open source per comptabilitzar emissions de
     gasos d'efecte hivernacle per part d'infrastructures relacionades amb el
