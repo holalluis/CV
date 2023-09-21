@@ -14,8 +14,9 @@ les matemàtiques i l'estadística. Capacitat per desenvolupar software en
 diversos llenguatges de programació, així com coneixements i experiència en
 l'automatització i tractament de grans volums de dades.
 
-Camps d'interès: ciències ambientals, enginyeria industrial,
-bioinformàtica/biomedicina i camps relacionats.
+## Camps d'interès
+Ciències ambientals, bioinformàtica, biomedicina, enginyeria industrial i camps
+relacionats.
 
 ## Educació / Formació
 - 2013: MSc Tecnologies de la Informació i Automàtica (Universitat de Girona).
@@ -23,6 +24,11 @@ bioinformàtica/biomedicina i camps relacionats.
 - 2007: Batxillerat internacional (IBO), Bell-lloc del Pla (Girona).
 
 ## Experiència Laboral
+- __Juliol 2022 - actualitat__: Insitut Català de Recerca de l'Aigua. Research
+  Support Computer Scientist. Asessorament matemàtic/informàtic a investigadors
+  del centre a investigadors que ho requereixin. Manteniment, instal·lació de
+  software al HPC Clúster "Undarius".
+
 - __Juliol 2021 - Juny 2022__: Universitat de Barcelona: Tècnic informàtic al
   projecte VIRWASTE. Tasques:
   - Manteniment plataforma Sarsaigua (operació diària, optimitzacions,
@@ -97,8 +103,8 @@ bioinformàtica/biomedicina i camps relacionats.
   - 2006: First Certificate Exam. (FCE, University of Cambridge).
 
 ## Tecnologies de la Informació
-- Sistemes operatius: GNU Linux (Debian/Ubuntu), Mac OS X (des de 10.5),
-  Microsoft Windows (des de XP).
+- Sistemes operatius: GNU Linux (Debian/Ubuntu/Alpine), Mac OS X (des de 10.5),
+  Microsoft Windows (XP a 11), Free BSD.
 - Editor de text: vim.
 - Alta preferència pels entorns de línia de comanda (CLI).
 - Git: sistema de control de versions (també Github i similars).
@@ -111,6 +117,7 @@ bioinformàtica/biomedicina i camps relacionats.
   - Python
   - Matlab/Octave
   - C/C++
+  - Erlang
   - Go
   - Rust
   - C#
@@ -147,6 +154,10 @@ bioinformàtica/biomedicina i camps relacionats.
   realitzar el treball de recerca.
 
 ## Publicacions
+- Guerrero-Latorre, L., Collado, N., Abasolo, N. et al. The Catalan
+  Surveillance Network of SARS-CoV-2 in Sewage: design, implementation, and
+  performance. Sci Rep 12, 16704 (2022).
+  https://doi.org/10.1038/s41598-022-20957-3
 - Ribera-Guardia, Anna & Bosch, Lluis & Corominas, Lluís & Pijuan, M.. (2018).
   Nitrous oxide and methane emissions from a plug-flow full-scale bioreactor
   and assessment of its carbon footprint. Journal of Cleaner Production. 212.
